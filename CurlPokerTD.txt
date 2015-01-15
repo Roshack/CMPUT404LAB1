@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+  <meta charset="utf-8" />
+  <title>MXTD</title>
+
+  <style>
+    #game_div {
+      width: 1000px;
+      margin: auto;
+      margin-top: 0px;
+    }
+  </style>
+  <script type="text/javascript" src="PHASER/build/phaser.min.js"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+
+<p>
+Found a bug? Have a suggestion?:
+<a href="mailto:pokertdsuggestion@gmail.com?Subject=PokerTD%20Suggestion" target="_top">
+Email us!</a>
+</p>
+
+<body>
+
+  <div id="game_div"> </div>
+
+</body>
+
+</html>
